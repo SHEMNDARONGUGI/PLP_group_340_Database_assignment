@@ -2,6 +2,10 @@
 
 This project defines the schema for an e-commerce database. Below is an overview of the tables and their relationships.
 
+## Switch your github to darkmode for a better view
+
+![group_work_erd](<PLP_GROUP_340.drawio (2).png>)
+
 ## Tables
 
 1. **brand**
